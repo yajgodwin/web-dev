@@ -1,0 +1,34 @@
+/* This is a CSS sheet, Hello */
+body {
+  font-family: monospace
+}
+
+h1{
+   color:red
+}
+
+h2{
+  color: brown
+}
+
+ a {
+   color: green
+}
+
+ a:hover {
+   color: blue
+}
+
+ ul li {
+   font-style: italic
+}
+
+.int-link,ol p {
+  font-weight: bolder
+}
+
+#mail-link {
+  color:red
+}
+
+
