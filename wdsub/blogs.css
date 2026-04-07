@@ -134,12 +134,20 @@ flex-grow:1;
   width:30%;
   float:right;
   text-align: center;
+  background-color:#D4E2E2;
 }
 
 #art-2{
+  float:clear;
   float:left;
 }
 
 .heading{
   font-family:Cherry Cream Soda;
+  border-radius:5px;
 }
+
+.pictures{
+  border:solid 3px darkblue;
+}
+
