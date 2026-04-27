@@ -20,15 +20,15 @@ h1{
 }
 
 h2{
-  color: brown
+  color: brown;
 }
 
  a {
-   color: green
+   color:white;
 }
 
  a:hover {
-   color: blue
+   color: blue;
 }
 
  ul li {
