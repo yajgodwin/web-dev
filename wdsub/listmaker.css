@@ -1,0 +1,52 @@
+li{
+  list-style-type: none;
+  text-align: center;
+}
+
+ li button  {
+  background-color: rgba (0,0,0,0);
+  border: 0px;
+   padding-right: 5px;
+}
+
+#content{
+  margin: auto;
+  text-align: center;
+  
+}
+
+h1{
+  margin:10px;
+  text-align:center;
+  background-color:#4B75FF;
+  border: solid #022DBA 3px;
+  border-radius:5px;
+  color:white;
+
+  
+}
+
+#list-grp{
+  width:75%;
+ 
+}
+
+body{
+  margin:0px;
+  background-color:#D4EAFC;
+  font-family:DynaPuff;
+}
+
+#add{
+  font-family:DynaPuff;
+  background-color:#FED73E;
+  border:solid #E0B407 3px ;
+  border-radius:5px;
+}
+
+#space{
+  font-family:DynaPuff;
+  background-color:#F50F0C;
+  border: solid #8C0A08 3px;
+  border-radius: 5px;
+}
