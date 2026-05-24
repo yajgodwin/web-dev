@@ -19,9 +19,6 @@ h1{
   
 }
 
-p{
-  font-family:Sour Gummy;
-}
 
 #nav-menu{
   display:flex;
@@ -115,7 +112,7 @@ background-color:lightgray;
 flex-grow:1;
   text-align:left;
   margin-left:10px;
-  font-family:Sour Gummy;
+ 
 }
 .vertical-bar{
   flex-grow:0;
@@ -144,7 +141,7 @@ flex-grow:1;
 }
 
 .heading{
-  font-family:Cherry Cream Soda;
+ 
   border-radius:5px;
 }
 
@@ -162,7 +159,7 @@ flex-grow:1;
 background-color:rgba(220,150,220,0.9);
   border:3px solid darkblue;
   border-radius:5px;
-  font-family:Cherry Cream Soda;
+
   color:blue;
  
   padding:2px;
