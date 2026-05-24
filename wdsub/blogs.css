@@ -1,6 +1,6 @@
 body{
   margin:0px;
-  /*font-family:Dynapuff;*/
+  font-family:Dynapuff;
   
 }
 
@@ -141,7 +141,6 @@ flex-grow:1;
 }
 
 .heading{
- 
   border-radius:5px;
 }
 
@@ -159,11 +158,8 @@ flex-grow:1;
 background-color:rgba(220,150,220,0.9);
   border:3px solid darkblue;
   border-radius:5px;
-
   color:blue;
- 
   padding:2px;
- 
   text-align: center;
  
 }
