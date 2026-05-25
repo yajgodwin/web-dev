@@ -1,0 +1,20 @@
+body{
+  font-family: Dynapuff;
+  background-color:#FFFEDC;
+}
+h1 {
+  text-align:center;
+  border: solid #8A0B08 5px;
+  border-radius: 5px;
+  background-color: #EB2C0E;
+}
+
+#original {
+  border: solid #205928 5px;
+  border-radius: 5px;
+  background-color:#2BC94D ;
+}
+
+li {
+  color:#FFFEDC;
+}
